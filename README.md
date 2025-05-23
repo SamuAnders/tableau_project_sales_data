@@ -6,6 +6,11 @@ Note: This is a project for learning Tableau that I've got from Baara. I only ma
 ## Introduction
 This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers.
 
+## Dashboard Color Scheme
+Basic Color : #303030, #b3b3b3
+
+Custome Color : #ff5500, #4F42B5
+
 ---
 ## Sales Dashboard | Requirements
 ### Dashboard Purpose
