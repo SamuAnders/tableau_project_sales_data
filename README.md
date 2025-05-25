@@ -9,7 +9,7 @@ This user story outlines the specifications for building two dashboards using ta
 ## Dashboard Color Scheme
 Basic Color : #303030, #b3b3b3
 
-Custome Color : #ff5500, #4F42B5
+Custome Color : #ff5500, #1da2d0
 
 ---
 ## Sales Dashboard | Requirements
